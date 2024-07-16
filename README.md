@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado nos cursos de lógica de programação.</p>
 
 ## 🚀 Tecnologias
 <div>
@@ -12,4 +12,4 @@
 
 # Time
 
-| <sub>Valdenia Vieira</sub>](https://github.com/valvieira7) | :---: | :---: |
+| <sub>Valdenia Vieira</sub> | (https://github.com/valvieira7) | :---: | :---: |
